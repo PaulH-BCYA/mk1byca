@@ -1,8 +1,8 @@
 ---
-title: "test 1"
-description: "test 2."
+title: "Song Name Here"
+description: "Song number here."
 pubDate: "Jun 19 2024"
-heroImage: "/blog-placeholder-1.jpg"
+heroImage: ""
 ---
 
 
